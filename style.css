@@ -1,0 +1,326 @@
+body{
+    background-color: darkgray ;
+}
+.continer1{
+    display: flex;
+    justify-content: space-between;
+    padding-right: 50px;
+    padding-left: 50px;
+    align-items: center;
+    background-color: white;
+    border-radius: 10px;
+}
+.t1{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: xx-large;
+}
+.con1{
+    color: blue;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 800;
+}
+span{
+    color: orange;
+}
+.t2{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: large;
+    color: darkcyan;
+}
+.t3{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: large;
+    color: darkcyan;
+}
+.t4{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: large;
+    color: darkcyan;
+}
+.search{
+    width: 500px;
+    height: 40px;
+    border-radius: 20px;
+}
+.continer2{
+    display: flex;
+    gap: 30px;
+    margin: 3em;
+    justify-content: space-evenly;
+    background-color:whitesmoke;
+    border-radius: 5px;
+    padding-top: 25px;
+}
+h3{
+    font-size: large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: black;
+}
+.img1{
+    width: 80px;
+    height: 100px;
+    border-radius: 50%;
+    box-shadow: 6px 6px 10px black;
+    transform: scale(1,1);
+    transition: 2s;
+}
+.img1:hover{
+    scale:1.3;
+}
+.img2{
+     width: 80px;
+    height: 100px;
+    border-radius: 50%;
+    box-shadow: 6px 6px 10px black;
+    transform: scale(1,1);
+    transition: 2s;
+}
+.img2:hover{
+    scale:1.3;
+}
+.img3{
+    width: 80px;
+    height: 100px;
+    border-radius: 50%;
+    box-shadow: 6px 6px 10px black;
+    transform: scale(1,1);
+    transition: 2s;
+}
+.img3:hover{
+    scale:1.3;
+}
+.img4{
+    width: 80px;
+    height: 100px;
+    border-radius: 50%;
+    box-shadow: 6px 6px 10px black;
+    transform: scale(1,1);
+    transition: 2s;
+}
+.img4:hover{
+    scale:1.3;
+}
+.img5{
+    width: 80px;
+    height: 100px;
+    border-radius: 50%;
+    box-shadow: 6px 6px 10px black;
+    transform: scale(1,1);
+    transition: 2s;
+}
+.img5:hover{
+    scale:1.3;
+}
+.img6{
+    width: 80px;
+    height: 100px;
+    border-radius: 50%;
+    box-shadow: 6px 6px 10px black;
+    transform: scaleX(1,1);
+    transition: 2s;
+}
+.img6:hover{
+    scale:1.3;
+}
+.img7{
+     width: 80px;
+    height: 100px;
+    border-radius: 50%;
+    box-shadow: 6px 6px 10px black;
+    transform: scaleX(1,1);
+    transition: 2s;
+}
+.img7:hover{
+    scale: 1.3;
+}
+.img8{
+    width: 80px;
+    height: 100px;
+    border-radius: 50%;
+    box-shadow: 6px 6px 10px black;
+    transform: scaleX(1,1);
+    transition: 2s;
+}
+.img8:hover{
+    scale:1.3;
+}
+.bg-img{
+    width: 100%;
+    height: 500px;
+}
+.list-continer1{
+    background-color: white;
+    width: 100%;
+    border-radius: 10px;
+    height: 800px;
+}
+.lt1{
+    padding-left: 30px;
+    padding-top: 30px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.list-con1{
+    display: flex;
+    gap: 30px;
+    margin: 2em;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.ele-img1{
+    width: 150px;
+    height: 150px;   
+}
+.ele-img2{
+    width: 150px;
+    height: 150px;  
+}
+.ele-img3{
+    width: 150px;
+    height: 150px;
+}
+.ele-img4{
+    width: 150px;
+    height: 150px;
+}
+.ele-img5{
+    width: 150px;
+    height: 150px;
+}
+.lt2{
+    padding-left: 30px;
+    padding-top: 30px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.list-contani{
+    display: flex;
+    gap: 40px;
+    margin: 3em;
+    justify-content: space-evenly;
+}
+.l-ele1{
+    width: 150px;
+    height: 180px;
+}
+.l-ele2{
+    width: 150px;
+    height: 180px;
+}
+.l-ele3{
+    width: 150px;
+    height: 180px;
+}
+.l-ele4{
+    width: 150px;
+    height: 180px;
+}
+.l-ele5{
+    width: 150px;
+    height: 180px;
+}
+.l-ele6{
+    width: 150px;
+    height: 180px;
+}
+.style-continer{
+    background-color: #fff;
+    border-radius: 10px;
+    height: 650px;
+}
+.continer3{
+    display: flex;
+    justify-content: space-evenly;
+}
+.dress-con1{
+    display: grid;
+    grid-template-columns:200px 200px ;
+    grid-template-rows: 250px 200px;
+    background-color: white;
+    padding-left: 20px;
+    padding-top: 20px;
+    padding-bottom: 40px;
+    margin-right: 20px;
+    border-radius: 15px;
+    box-shadow: 3px 3px 5px black;
+}
+.dress-con2{
+    display: grid;
+    grid-template-columns:200px 200px ;
+    grid-template-rows: 250px 200px;
+    background-color: white;
+    padding-left: 10px;
+    padding-top: 20px;
+    padding-bottom: 40px;
+    border-radius: 15px;
+    box-shadow: 3px 3px 5px black;
+}
+.dress-con3{
+    display: grid;
+    grid-template-columns:200px 200px ;
+    grid-template-rows: 250px 200px;
+    background-color: white;
+    padding-left: 10px;
+    padding-top: 20px;
+    padding-bottom: 40px;
+    border-radius: 15px;
+    box-shadow: 3px 3px 5px black;
+}
+.dress-t1{
+    padding-left: 50px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: white;
+    padding-top: 15px;
+    height: 20px;
+}
+.sh-ele1{
+    width: 150px;
+    height: 150px;
+}
+#d-con1{
+    color: green;
+}
+.sh-ele2{
+    width: 150px;
+    height: 150px;
+}
+#d-con2{
+    color: green;
+}
+.sh-ele3{
+    width: 150px;
+    height: 150px;
+}
+#d-con3{
+    color: green;
+}
+.sh-ele4{
+    width: 150px;
+    height: 150px;
+}
+#d-con4{
+    color: green;
+}
+footer{
+    background-color: #fff;
+    height: 200px;
+}
+.t5{
+    padding-top: 25px;
+    padding-left: 50px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: x-large;
+    font-style: bold;
+}
+.icon-container {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      gap: 50px;
+    }
+.icon-container a img {
+      width: 90px;
+      height: 90px;
+      transition: transform 0.3s;
+    }
+.icon-container a img:hover {
+      transform: scale(1.2);
+    }
